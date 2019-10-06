@@ -2,7 +2,7 @@
 __Experimental results__ 
 
 
-* This work is related to the experimental section of [our][1] paper which involves comarison to [Candes and Recht algorithm][2] for matrix completion problem.
+* This work is related to the experimental section of [our][1] paper which involves comaparison to [Candes and Recht algorithm][2] for matrix completion problem.
 
 * Here we compare the running time of existing convex relaxation based matrix completion methods (involving nuclear norm minimization)   with our *fixed-parameter-tractable* (__FPT__) algorithms.
 * Assumptions
